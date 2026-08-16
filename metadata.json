@@ -1,0 +1,6 @@
+{
+  "name": "Gramin Shala",
+  "description": "Multi-tenant rural school management platform for private schools with isolated data for Admins, Teachers, and Students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
